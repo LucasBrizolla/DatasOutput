@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
